@@ -49,15 +49,15 @@ tmdb-movies.csv
 
 **Findings**
 
-The most popular gener, Drama had been throughly analyzed and it can be seen that the popularity for drama movies year on year had been fluctuation but overall they are the most popular. We can alos see that the number of drama movies released had doubled every decade except for the last one.
+1) The most popular gener, Drama had been throughly analyzed and it can be seen that the popularity for drama movies year on    year had been fluctuation but overall they are the most popular. We can alos see that the number of drama movies released    had doubled every decade except for the last one.
 
-The three production companies which produced movies that are popular among the viewers. Hence we can saftley say the movie produced by theses companies would be popular but this is an assumption from the past data. The companies are
+2) The three production companies which produced movies that are popular among the viewers. Hence we can saftley say the        movie produced by theses companies would be popular but this is an assumption from the past data. The companies are
+   Paramount Pictures
+   Universal Pictures
+   Columbia Pictures
 
-Paramount Pictures
-Universal Pictures
-Columbia Pictures
-
-We also saw the popularity of movies. As the movie industry got bigger so did the popularity. Hence from the results we can see that the newer movies are much popular among the viewres that the old movies. From the last data analysis, we can also see that the revenue for newer movies are much higher than the older movies.
-The most popular geners among the viewers are Drama which is closly followed by Comedy.
+3) We also saw the popularity of movies. As the movie industry got bigger so did the popularity. Hence from the results we      can see that the newer movies are much popular among the viewres that the old movies. From the last data analysis, we can    also see that the revenue for newer movies are much higher than the older movies.
+   
+4) The most popular geners among the viewers are Drama which is closly followed by Comedy.
 
 All results are limited to the underlying data set and as no advaned statistics were performed, the results can only be treated as indicators and are not generalizable. Furthermore, one has to consider that many entries in the dataset have been removed due to missing data
